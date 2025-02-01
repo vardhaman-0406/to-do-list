@@ -73,7 +73,7 @@ Contributions are welcome! Follow these steps:
 ## ✉️ Contact
 
 Developed with ❤️ by **Your Name**  
-GitHub: [Atharv-Dhanade21](https://github.com/Atharv-Dhanade21)
+GitHub: [vardhaman-0406](https://github.com/vardhaman-0406)
 
 ---
 
